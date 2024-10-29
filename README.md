@@ -24,7 +24,7 @@ Key Concepts: 1.⁠ ⁠Inheritance: SavingsAccount and CheckingAccount inherit f
 
 Running the Code: Prerequisites: 
 •⁠ ⁠Java Development Kit (JDK) installed on your system. 
-•⁠ ⁠Java IDE (e.g., Eclipse, IntelliJ IDEA, NetBeans) or a text editor. 
+•⁠ A text editor (VSCO). 
 Steps: 
 1.⁠ ⁠Save the code in a file named ⁠ BankApp.java ⁠. 
 2.⁠ ⁠Compile the code using the command: ⁠ javac BankApp.java ⁠ (in the terminal/command prompt). 
