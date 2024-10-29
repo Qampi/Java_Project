@@ -39,3 +39,11 @@ Example Usage:
 - Withdraw from an account 
 - Apply interest to a savings account 
 - Exit the application This code demonstrates object-oriented programming principles, exception handling, and basic banking operations.
+
+Made use of if else statement:
+If the if condition is false, the block of code inside the else statement will execute.
+
+class: A class in Java is a blueprint for creating objects.
+Superclass (Parent Class): The class whose properties and methods are inherited by another class.
+Subclass (Child Class): The class that inherits properties and methods from the superclass.
+extends Keyword: Used to define a subclass that inherits from a superclass.
